@@ -3,7 +3,6 @@
 Building Online E-Learning from Scratch Using HTML, CSS, Javascript, Express.js, and Node.js
 
 📣 Summary
-<hr>
 This application (E-Learning-LMS)was built using
 1. HTML
 2. Node.js
